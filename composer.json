@@ -1,0 +1,11 @@
+{
+	"require": {
+        "slim/slim": "2.*",
+        "xiphe/base": "1.*",
+        "xiphe/slimassets": "1.*"
+    },
+    "require-dev": {
+    	"coffeescript/coffeescript": "~1.3",
+        "leafo/lessphp": "~0.3"
+    }
+}
